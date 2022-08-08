@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="app">
       {/* to-do list */}
-      {/* input */}
       {/* done */}
       <Input/>
     </div>
